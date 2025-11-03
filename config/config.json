@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xC83FaD1BE05261dE4e4E0B7Da7DF2a11b039c6FE",
-  "SCAN_LINK": "https://arbiscan.io/address",
+  "CONTRACT_ADDRESS": "0xA4C6d1eeB209cD0f40be5D93CC5bD38B8597277A",
+  "SCAN_LINK": "https://apescan.io/address/0xA4C6d1eeB209cD0f40be5D93CC5bD38B8597277A",
   "NETWORK": {
-    "NAME": "Arbitrum",
-    "SYMBOL": "ETH",
-    "ID": 42161
+    "NAME": "ApeChain",
+    "SYMBOL": "APE",
+    "ID": 33139
   },
-  "NFT_NAME": "Wizard Alantar",
-  "SYMBOL": "WIZARDALANTAR",
-  "MAX_SUPPLY": 150,
+  "NFT_NAME": "CAWWNPANIONS",
+  "SYMBOL": "CoApe",
+  "MAX_SUPPLY": 20000,
   "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 0.1,
+  "DISPLAY_COST": 0.95,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "",
-  "MARKETPLACE_LINK": "",
+  "MARKETPLACE": "magiceden",
+  "MARKETPLACE_LINK": "https://magiceden.io/collections/apechain/cawwnpanions-1",
   "SHOW_BACKGROUND": true
 }
