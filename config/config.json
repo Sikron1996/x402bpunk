@@ -8,10 +8,10 @@
   },
   "NFT_NAME": "CAWWNPANIONS",
   "SYMBOL": "CoApe",
-  "MAX_SUPPLY": 20000,
-  "WEI_COST": 100000000000000000,
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 950000000000000000,
   "DISPLAY_COST": 0.95,
-  "GAS_LIMIT": 350000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "magiceden",
   "MARKETPLACE_LINK": "https://magiceden.io/collections/apechain/cawwnpanions-1",
   "SHOW_BACKGROUND": true
